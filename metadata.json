@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Faixas Eudora",
+  "description": "Uma calculadora para converter valores de acordo com as faixas de desconto Eudora. Insira um valor e veja o preço final para cada faixa: Bronze, Prata, Ouro, Platina, Rubi, Esmeralda e Diamante.",
+  "requestFramePermissions": []
+}
